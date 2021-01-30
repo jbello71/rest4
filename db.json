@@ -3,14 +3,17 @@
   {
     "id": 1,
     "title": "prueba 1"
+    "image": "url 1"
   },
   {
     "id": 2,
     "title": "Prueba 2"
+    "image": "url 2"    
   },
   {
     "id": 3,
     "title": "prueba 3"
+    "image": "url 3"
   }   
   ],
   "profile": {
